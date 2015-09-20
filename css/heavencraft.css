@@ -1,0 +1,123 @@
+.minecraftia {
+	font-family: "Minecraftia";
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	background: url(../images/background.min.jpg) repeat fixed;
+	padding-top: 70px;
+	font-size: 15px;
+	font-family: "Fira Sans", sans-serif;
+}
+
+a.anchor {
+	display: block;
+	position: relative;
+	top: -48px;
+	visibility: hidden;
+}
+
+.indent {
+	text-indent: 42px;
+}
+
+/* navbar */
+
+.navbar {
+	min-height: 48px;
+	border-width: 0;
+	background: url(../images/planks_spruce_48.png) repeat-x;
+	box-shadow: 0px 0px 2px 2px #000;
+}
+
+.navbar-nav > li > a {
+	color: white;
+	padding-bottom: 14px;
+	padding-top: 14px;
+}
+.navbar-nav > li > a:hover {
+	background: url(../images/planks_birch_48.png) repeat-x;
+}
+
+.navbar-nav > li > a.navbar-icon {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.navbar-collapse[aria-expanded="true"] {
+	background-color: rgba(0, 0, 0, 0.4);;
+}	
+
+.navbar-toggle {
+	background: url(../images/MHF_ArrowUp.png);
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	margin: 8px;
+	height: 32px;
+	width: 32px;
+	box-shadow: 0px 0px 3px 1px #000;
+
+}
+.navbar-toggle.collapsed {
+	background: url(../images/MHF_ArrowDown.png);
+}
+
+/* Minecraftia font must be multiple of 8px */
+.navbar-brand {
+	font-size: 24px;
+	height: 48px;
+	padding-bottom: 14px;
+	padding-top: 14px;
+}
+.navbar-nav {
+	font-size: 16px;
+}
+
+#logo {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+#header {
+	min-height: calc(100vh - 70px - 32px);
+}
+
+.menu-item {
+	background: url(../images/planks_spruce_32.png) repeat-x;
+	font-size: 16px;
+	line-height: 32px;
+	height: 32px;
+	color:white;
+}
+
+.menu-item:hover {
+	background: url(../images/planks_birch_32.png) repeat-x;
+	text-decoration: none;
+	color:white;
+}
+
+.img-world {
+	display: block;
+	height: 192px;
+	margin: 20px auto 20px;
+	width: 192px;
+}
+
+.img-team {
+	margin: 24px auto 16px;
+}
+
+.paypal {
+	margin: 48px auto 32px;
+}
+
+#page {
+	box-shadow: 0px 0px 2px 1px #000;
+	background-color: white;
+}
+
+#authors {
+	padding: 10px 0;
+}
