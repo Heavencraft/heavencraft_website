@@ -53,7 +53,7 @@
 	if (defined('PRINT_HEADER')) {
 ?>
 		<div id="header" class="container hidden-xs">
-			<div class="text-center"><img id="logo" src="images/logo.png" /></div>
+			<div class="text-center"><img id="logo" src="images/logo.png" alt="Heavencraft" /></div>
 			<div class="row">
 				<div class="col-xs-5"></div>
 				<h1 class="col-xs-6 lead">Heavencraft est un serveur minecraft français se reposant sur sa communauté soudée, ses maps diversifiées et ses constructions époustouflantes, proposant au joueur une Aventure avec un grand A.</h1>
