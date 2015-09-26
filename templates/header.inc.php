@@ -7,6 +7,11 @@
 		<meta name="keywords" content="minecraft, serveur, communauté, français, association, map, aventure, construction" />
 		<meta name="description" content="Heavencraft est un serveur peuplé, actif et sans limites. Quelles que soient vos préférences de jeu, vous serez comblés par notre communauté et les nombreuses possibilités de notre serveur. Venez le visiter et découvrez ses différents mondes, maps et constructions, proposant de multiples façons de s'amuser sur Minecraft !" />
 		<title>Heavencraft - serveur minecraft communautaire</title>
+		<meta property="og:title" content="Heavencraft" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.heavencraft.fr" />
+		<meta property="og:image" content="http://www.heavencraft.fr/images/logo.png" />
+		<meta property="og:locale" content="fr_FR" />
 
 		<link rel="stylesheet" type="text/css" href="css/bootstrap-3.3.5.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/heavencraft.min.20150813.css" />
