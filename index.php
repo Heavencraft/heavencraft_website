@@ -85,8 +85,6 @@
 					<p class="indent text-justify">Les modérateurs sont là pour gérer les problèmes usuels du serveur (conflits entre les joueurs, tricherie, etc.). Ils s'assurent que tout le monde puisse avoir la meilleur expérience possible aussi bien en jeu que sur le forum.</p>
 					<ul>
 						<li style="list-style-image: url(images/team/mods/darckmart.png)"><b>darckmart</b></li>
-						<li style="list-style-image: url(images/team/mods/BlackDiamond283.png)">BlackDiamond283</li>
-						<li style="list-style-image: url(images/team/mods/Ghoz.png)">Ghoz</li>
 						<li style="list-style-image: url(images/team/mods/iiDyze.png)">iiDyze</li>
 						<li style="list-style-image: url(images/team/mods/natrix2000.png)">natrix2000</li>
 						<li style="list-style-image: url(images/team/mods/Pine_De_Nems.png)">Pine_De_Nems</li>
