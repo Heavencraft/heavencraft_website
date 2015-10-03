@@ -84,6 +84,11 @@ a.anchor {
 	min-height: calc(100vh - 70px - 32px);
 }
 
+.app-address {
+	line-height: 32px;
+	vertical-align: middle;
+}
+
 .menu-item {
 	background: url(../images/planks_spruce_32.png) repeat-x;
 	font-size: 16px;

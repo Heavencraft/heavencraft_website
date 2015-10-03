@@ -14,7 +14,7 @@
 		<meta property="og:locale" content="fr_FR" />
 
 		<link rel="stylesheet" type="text/css" href="css/bootstrap-3.3.5.min.css" />
-		<link rel="stylesheet" type="text/css" href="css/heavencraft.min.20150813.css" />
+		<link rel="stylesheet" type="text/css" href="css/heavencraft.min.20151001.css" />
 		<link rel="stylesheet" type="text/css" href="fonts/fonts.min.css" />
 		<link rel="icon" type="image/png" href="images/favicon.png" />
 		<link rel="canonical" href="http://www.heavencraft.fr" />
@@ -55,7 +55,13 @@
 		<div id="header" class="container hidden-xs">
 			<div class="text-center"><img id="logo" src="images/logo.png" alt="Heavencraft" /></div>
 			<div class="row">
-				<div class="col-xs-5"></div>
+				<div class="col-xs-5 lead text-center">
+					<div class="minecraftia h3">Rejoins-nous!</div>
+					<div class="app-address">
+					 	<img src="images/minecraft.png" />&nbsp;heavencraft.fr<br />
+						<img src="images/mumble.png" />&nbsp;heavencraft.fr
+					</div>
+				</div>
 				<h1 class="col-xs-6 lead">Heavencraft est un serveur minecraft français se reposant sur sa communauté soudée, ses maps diversifiées et ses constructions époustouflantes, proposant au joueur une Aventure avec un grand A.</h1>
 				<div class="col-xs-1"></div>
 			</div>
