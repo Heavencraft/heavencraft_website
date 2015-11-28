@@ -37,9 +37,12 @@ error_reporting(E_ALL);
 					<option value="semirp">semirp</option>
 					<option value="origines">origines</option>
 					<option value="creafun">creafun</option>
+					<option value="creative">creative</option>
+					<option value="fun">fun</option>
 					<option value="factions">factions</option>
 					<option value="ultrahard">ultrahard</option>
 					<option value="musee">musee</option>
+					<option value="skyblock">skyblock</option>
 				</optgroup>
 				
 				<optgroup label="Jeux">
