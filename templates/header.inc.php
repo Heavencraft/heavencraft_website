@@ -59,7 +59,7 @@
 					<div class="minecraftia h3">Rejoins-nous!</div>
 					<div class="app-address">
 					 	<img src="images/minecraft.png" />&nbsp;heavencraft.fr<br />
-						<img src="images/mumble.png" />&nbsp;heavencraft.fr
+						<a href="mumble://heavencraft.fr/"><img src="images/mumble.png" /></a>&nbsp;heavencraft.fr
 					</div>
 				</div>
 				<h1 class="col-xs-6 lead">Heavencraft est un serveur minecraft français se reposant sur sa communauté soudée, ses maps diversifiées et ses constructions époustouflantes, proposant au joueur une Aventure avec un grand A.</h1>
