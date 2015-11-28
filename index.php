@@ -131,6 +131,8 @@
 					<p class="indent text-justify">Afin de mieux se faire connaitre, Heavencraft a fondé un réseau de partenaires, n'hésitez pas à y jeter un œil:</p>
 					<div class="text-center">
 						<a class="btn btn-default" href="http://the-minecraft.fr/" role="button">The-Minecraft</a>
+						<a class="btn btn-default" href="https://bigcube.ch/" role="button">Bigcube</a>
+						
 					</div>
 				</div>
 			</div>
@@ -140,8 +142,13 @@
 					<h2 class="h3">Voter pour nous</h2>
 					<p class="indent text-justify">Les sites de classement sont cruciaux pour la promotion du serveur, indispensable à la survie de notre communauté. Pour nous assurer une bonne visibilité, vous pouvez voter pour nous sur différents sites :</p>
 					<div class="text-center">
-						<a class="btn btn-default" href="http://www.mcserv.org/Heavencraftfr_3002.html" role="button">McServ.org</a>
 						<a class="btn btn-default" href="http://mc-topserv.net/top/serveur.php?serv=46" role="button">Mc-TopServ</a>
+						<a class="btn btn-default" href="http://top-serveurs-minecraft.fr/fiche_serveur.php?id=1345" role="button">Top Serveurs Minecraft</a>
+						<a class="btn btn-default" href="http://www.mcserv.org/Heavencraftfr_3002.html" role="button">McServ.org</a>
+						<a class="btn btn-default" href="http://www.rpg-paradize.com/site-Heavencraft-104357" role="button">RPG Paradize</a>
+						<a class="btn btn-default" href="http://www.serveursminecraft.org/serveur.php?id=104" role="button">ServeursMinecraft.org</a>
+						<a class="btn btn-default" href="https://www.serveurs-minecraft.com/serveur-minecraft?Classement=Heavencraft" role="button">Serveurs-Minecraft.com</a>		
+								
 					</div>
 				</div>
 			</div>
