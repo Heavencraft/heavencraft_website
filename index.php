@@ -126,8 +126,17 @@
 						<a class="btn btn-default" href="hp_achat.php" rel="nofollow" role="button">Acheter des HPs via StarPass</a>
 					</div>
 				</div>
-
 				<div class="col-md-4">
+					<h2 class="h3">Partenaires</h2>
+					<p class="indent text-justify">Afin de mieux se faire connaitre, Heavencraft a fondé un réseau de partenaires, n'hésitez pas à y jeter un œil:</p>
+					<div class="text-center">
+						<a class="btn btn-default" href="http://the-minecraft.fr/" role="button">The-Minecraft</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-offset-3 col-md-6">
 					<h2 class="h3">Voter pour nous</h2>
 					<p class="indent text-justify">Les sites de classement sont cruciaux pour la promotion du serveur, indispensable à la survie de notre communauté. Pour nous assurer une bonne visibilité, vous pouvez voter pour nous sur différents sites :</p>
 					<div class="text-center">
@@ -136,6 +145,8 @@
 					</div>
 				</div>
 			</div>
+			
+			<hr />
 		
 <?php
 	require_once('templates/footer.inc.php');
