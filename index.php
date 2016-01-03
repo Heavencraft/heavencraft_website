@@ -76,6 +76,7 @@
 						<li style="list-style-image: url(images/team/comm/Reaven59.png)"><b>Reaven59</b></li>
 						<li style="list-style-image: url(images/team/comm/Skilver4.png)">Skilver4</li>
 						<li style="list-style-image: url(images/team/comm/War2unicorn.png)">War2unicorn</li>
+                        <li style="list-style-image: url(images/team/comm/Wivgot.png)">Wivgot</li>
 					</ul>
 					<img class="img-responsive img-team" src="images/team/comm/comm.min.jpg">
 				</div>
@@ -86,7 +87,6 @@
 					<ul>
 						<li style="list-style-image: url(images/team/mods/darckmart.png)"><b>darckmart</b></li>
 						<li style="list-style-image: url(images/team/mods/iiDyze.png)">iiDyze</li>
-						<li style="list-style-image: url(images/team/mods/natrix2000.png)">natrix2000</li>
 						<li style="list-style-image: url(images/team/mods/Pine_De_Nems.png)">Pine_De_Nems</li>
 						<li style="list-style-image: url(images/team/mods/Sartilas.png)">Sartilas</li>
 						<li style="list-style-image: url(images/team/mods/Snykeurs.png)">Snykeurs</li>
@@ -97,8 +97,9 @@
 					<p class="indent text-justify">Les architectes de l'équipe construisent dans l'intérêt de la communauté, en développant l'univers et le gameplay du serveur grâce à leurs constructions.</p>
 					<ul>
 						<li style="list-style-image: url(images/team/archi/arthurion98.png)">arthurion98, architecte intermondes</li>
-						<li style="list-style-image: url(images/team/archi/jul0105.png)">jul0105, gérant du UH et du Fun</li>
+						<li style="list-style-image: url(images/team/archi/Natryx.png)">Natryx, gérant Fun et Créatif</li>
 						<li style="list-style-image: url(images/team/archi/X_zbouby_X.png)">X_zbouby_X, gérant du Semi-RP</li>
+                        <li style="list-style-image: url(images/team/archi/Balthov60.png)">Balthov60, résponsable RPG</li>
 					</ul>
 				</div>
 			</div>
