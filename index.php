@@ -74,7 +74,6 @@
 					<p class="indent text-justify">L'équipe de communication s'occupe de la communication intérieure et extérieure du serveur, de la gestion de sa communauté ainsi que de la rédaction en général.</p>
 					<ul>
 						<li style="list-style-image: url(images/team/comm/Reaven59.png)"><b>Reaven59</b></li>
-						<li style="list-style-image: url(images/team/comm/Skilver4.png)">Skilver4</li>
 						<li style="list-style-image: url(images/team/comm/War2unicorn.png)">War2unicorn</li>
                         <li style="list-style-image: url(images/team/comm/Wivgot.png)">Wivgot</li>
 					</ul>
@@ -87,17 +86,16 @@
 					<ul>
 						<li style="list-style-image: url(images/team/mods/darckmart.png)"><b>darckmart</b></li>
 						<li style="list-style-image: url(images/team/mods/iiDyze.png)">iiDyze</li>
-						<li style="list-style-image: url(images/team/mods/Pine_De_Nems.png)">Pine_De_Nems</li>
-						<li style="list-style-image: url(images/team/mods/Sartilas.png)">Sartilas</li>
 						<li style="list-style-image: url(images/team/mods/Snykeurs.png)">Snykeurs</li>
+                        <li style="list-style-image: url(images/team/mods/Xael775.png)">Xael775</li>
 					</ul>
 					<img class="img-responsive img-team" src="images/team/mods/mods.min.jpg">
 
-					<h4>Les architectes</h4>
+					<h4>Les architectes et responsables</h4>
 					<p class="indent text-justify">Les architectes de l'équipe construisent dans l'intérêt de la communauté, en développant l'univers et le gameplay du serveur grâce à leurs constructions.</p>
 					<ul>
 						<li style="list-style-image: url(images/team/archi/arthurion98.png)">arthurion98, architecte intermondes</li>
-						<li style="list-style-image: url(images/team/archi/Natryx.png)">Natryx, gérant Fun et Créatif</li>
+						<li style="list-style-image: url(images/team/archi/Stillow.png)">Stillow, gérant Fun</li>
 						<li style="list-style-image: url(images/team/archi/X_zbouby_X.png)">X_zbouby_X, gérant du Semi-RP</li>
                         <li style="list-style-image: url(images/team/archi/Balthov60.png)">Balthov60, résponsable RPG</li>
 					</ul>
