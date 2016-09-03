@@ -42,9 +42,9 @@
 						<li class="visible-xs"><a href="https://twitter.com/Heavencraftfr">Twitter</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right hidden-xs">
-						<li><a class="navbar-icon" id="radio-button" href="#"><img id="radio-button-img" src="images/radio_off.png" /></a></li>
-						<li><a class="navbar-icon" href="https://www.facebook.com/Heavencraft"><img src="images/wool-fb.png" /></a></li>
-						<li><a class="navbar-icon" href="https://twitter.com/Heavencraftfr"><img src="images/wool-tw.png" /></a></li>
+						<li><a class="navbar-icon" id="radio-button" href="#"><img id="radio-button-img" src="images/radio_off.png" alt="Radio" /></a></li>
+						<li><a class="navbar-icon" href="https://www.facebook.com/Heavencraft"><img src="images/wool-fb.png" alt="facebook" /></a></li>
+						<li><a class="navbar-icon" href="https://twitter.com/Heavencraftfr"><img src="images/wool-tw.png" alt="twitter" /></a></li>
 					</ul>
 				</div>
 			</div>
@@ -58,8 +58,8 @@
 				<div class="col-xs-5 lead text-center">
 					<div class="minecraftia h3">Rejoins-nous!</div>
 					<div class="app-address">
-					 	<img src="images/minecraft.png" />&nbsp;heavencraft.fr<br />
-						<a href="mumble://heavencraft.fr/"><img src="images/mumble.png" /></a>&nbsp;heavencraft.fr
+					 	<img src="images/minecraft.png" alt="" />&nbsp;heavencraft.fr<br />
+						<a href="mumble://heavencraft.fr/"><img src="images/mumble.png" alt="mumble" /></a>&nbsp;heavencraft.fr
 					</div>
 				</div>
 				<h1 class="col-xs-6 lead">Heavencraft est un serveur minecraft français se reposant sur sa communauté soudée, ses maps diversifiées et ses constructions époustouflantes, proposant au joueur une Aventure avec un grand A.</h1>

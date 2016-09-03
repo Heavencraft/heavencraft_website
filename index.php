@@ -9,13 +9,13 @@
 				<a class="col-xs-4 menu-item" href="#Nous-aider">Nous aider</a>
 			</div>
 
-			<a name="Les-differents-mondes" class="anchor"></a>
+			<a id="Les-differents-mondes" class="anchor"></a>
 			<h3 class="text-center h2">Les différents mondes</h3>
 
 			<div class="row">
 				<div class="col-md-4">
 					<h2 class="text-center h3">Semi-RP</h2>
-					<img class="img-circle img-world" src="images/worlds/semirp.min.jpg" />
+					<img class="img-circle img-world" src="images/worlds/semirp.min.jpg" alt="SEMI-RP"/>
 					<div class="lead text-center">Là où le plaisir n'est pas qu'en partie.</div>
 					<p class="indent text-justify">C'est un monde imprégné de l'énergie des joueurs. En effet, divisé en provinces, ce monde est dynamisé par 5 gouverneurs et son community manager. Un système de gestion est à votre disposition pour vous permettre de créer votre propre ville et vie en jeu.</p>
 
@@ -23,14 +23,14 @@
 				
 				<div class="col-md-4">
 					<h2 class="text-center h3">Créatif</h2>
-					<img class="img-circle img-world" src="images/worlds/creative.min.jpg" />
+					<img class="img-circle img-world" src="images/worlds/creative.min.jpg" alt="creatif"/>
 					<div class="lead text-center">La création n'a de limite que dans l'esprit de son inventeur.</div>
 					<p class="indent text-justify">Ici, plus aucune limite, vous pourrez créer tout ce qui vous passe par la tête et, sous le regard bienveillant des archi-modérateurs ainsi que de la communauté, vous aurez la possibilité de laisser libre court à vos plus grands fantasmes de constructeur.</p>
 				</div>
 				
 				<div class="col-md-4">
 					<h2 class="text-center h3">Origines</h2>
-					<img class="img-circle img-world" src="images/worlds/origins.min.jpg" />
+					<img class="img-circle img-world" src="images/worlds/origins.min.jpg" alt="origines"/>
 					<div class="lead text-center">Là où Minecraft reprend toutes ses couleurs d'antan.</div>
 					<p class="indent text-justify">Mêlant liberté du créatif et monde survival Vanilla, vous voilà libre de construire en survival tout ce que vous voulez sur ce Minecraft qui a su vous faire tant craquer.</p>
 				</div>
@@ -42,7 +42,7 @@
 			
 			<hr />
 			
-			<a name="Qui-sommes-nous" class="anchor"></a>
+			<a id="Qui-sommes-nous" class="anchor"></a>
 			<h3 class="text-center h2">Qui sommes-nous ?</h3>
 
 			<div class="row">
@@ -68,7 +68,7 @@
 						<li style="list-style-image: url(images/team/admins/lorgan17.png)">lorgan17, trésorier de l'association</li>
 						<li style="list-style-image: url(images/team/admins/Manu67100.png)">Manu67100, secrétaire de l'association</li>
 					</ul>
-					<img class="img-responsive img-team" src="images/team/admins/admins.min.jpg">
+					<img class="img-responsive img-team" src="images/team/admins/admins.min.jpg" alt="Equipe administrative">
 
 					<h4>L'équipe de communication</h4>
 					<p class="indent text-justify">L'équipe de communication s'occupe de la communication intérieure et extérieure du serveur, de la gestion de sa communauté ainsi que de la rédaction en général.</p>
@@ -77,7 +77,7 @@
 						<li style="list-style-image: url(images/team/comm/War2unicorn.png)">War2unicorn</li>
                         <li style="list-style-image: url(images/team/comm/Wivgot.png)">Wivgot</li>
 					</ul>
-					<img class="img-responsive img-team" src="images/team/comm/comm.min.jpg">
+					<img class="img-responsive img-team" src="images/team/comm/comm.min.jpg" alt="Equipe de communication">
 				</div>
 
 				<div class="col-md-6">
@@ -89,7 +89,7 @@
 						<li style="list-style-image: url(images/team/mods/Snykeurs.png)">Snykeurs</li>
                         <li style="list-style-image: url(images/team/mods/Xael775.png)">Xael775</li>
 					</ul>
-					<img class="img-responsive img-team" src="images/team/mods/mods.min.jpg">
+					<img class="img-responsive img-team" src="images/team/mods/mods.min.jpg" alt="Equipe de modération">
 
 					<h4>Les architectes et responsables</h4>
 					<p class="indent text-justify">Les architectes de l'équipe construisent dans l'intérêt de la communauté, en développant l'univers et le gameplay du serveur grâce à leurs constructions.</p>
@@ -104,7 +104,7 @@
 
 			<hr />
 
-			<a name="Nous-aider" class="anchor"></a>
+			<a id="Nous-aider" class="anchor"></a>
 			<h3 class="text-center h2">Nous aider</h3>
 			
 			<div class="row">
